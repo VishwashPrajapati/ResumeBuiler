@@ -1,0 +1,14 @@
+
+.row{
+    padding: 10px;
+}
+.card{
+    margin: 10px;
+    border-radius: 0 !important;
+}
+.form-control{
+    border-radius: 0 !important;
+}
+.btn{
+    border-radius: 0 !important;
+}
